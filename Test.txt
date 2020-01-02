@@ -1,0 +1,6 @@
+EditFile
+<<<<<<< HEAD
+=======
+
+SecEdit
+>>>>>>> third commit
